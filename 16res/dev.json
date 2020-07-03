@@ -1,0 +1,5735 @@
+[
+    {
+        "ID": 0,
+        "Sentence": "The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        16,
+                        24,
+                        "average"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    32,
+                    50,
+                    "Thai fusion stuff"
+                ],
+                "opinions": [
+                    [
+                        59,
+                        69,
+                        "too sweet"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 1,
+        "Sentence": "We went around 9:30 on a Friday and it had died down a bit by then so the service was great !",
+        "entities": [
+            {
+                "target": [
+                    73,
+                    81,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        85,
+                        91,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Sentence": "we love th pink pony .",
+        "entities": [
+            {
+                "target": [
+                    10,
+                    20,
+                    "pink pony"
+                ],
+                "opinions": [
+                    [
+                        2,
+                        7,
+                        "love"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Sentence": "the food is decent .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        18,
+                        "decent"
+                    ]
+                ],
+                "polarity": "NEU"
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Sentence": "however , it 's the service that leaves a bad taste in my mouth .",
+        "entities": [
+            {
+                "target": [
+                    19,
+                    27,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        41,
+                        51,
+                        "bad taste"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "Sentence": "i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check .",
+        "entities": [
+            {
+                "target": [
+                    106,
+                    113,
+                    "waiter"
+                ],
+                "opinions": [
+                    [
+                        148,
+                        152,
+                        "bad"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "Sentence": "I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .",
+        "entities": [
+            {
+                "target": [
+                    41,
+                    52,
+                    "sea urchin"
+                ],
+                "opinions": [
+                    [
+                        64,
+                        73,
+                        "heavenly"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "Sentence": "The sushi seemed pretty fresh and was adequately proportioned .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "sushi"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        29,
+                        "fresh"
+                    ],
+                    [
+                        48,
+                        61,
+                        "proportioned"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 8,
+        "Sentence": "In the evening , this place attracted a well dressed , with it , NY crowd .",
+        "entities": [
+            {
+                "target": [
+                    67,
+                    73,
+                    "crowd"
+                ],
+                "opinions": [
+                    [
+                        27,
+                        37,
+                        "attracted"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "Sentence": "The food was well prepared and the service impecable .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        26,
+                        "well prepared"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    34,
+                    42,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        42,
+                        52,
+                        "impecable"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 10,
+        "Sentence": "The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    18,
+                    "Prix Fixe menu"
+                ],
+                "opinions": [
+                    [
+                        21,
+                        27,
+                        "worth"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 11,
+        "Sentence": "The kitchen however , is almost always slow .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "kitchen"
+                ],
+                "opinions": [
+                    [
+                        38,
+                        43,
+                        "slow"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 12,
+        "Sentence": "Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening .",
+        "entities": [
+            {
+                "target": [
+                    17,
+                    25,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        17,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    35,
+                    40,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        29,
+                        35,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 13,
+        "Sentence": "The pizza was delivered cold and the cheese was n't even fully melted !",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "pizza"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        28,
+                        "cold"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    36,
+                    43,
+                    "cheese"
+                ],
+                "opinions": [
+                    [
+                        43,
+                        69,
+                        "was n't even fully melted"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 14,
+        "Sentence": "Yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right .",
+        "entities": [
+            {
+                "target": [
+                    20,
+                    32,
+                    "ingredients"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        20,
+                        "fancy"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    82,
+                    88,
+                    "pizza"
+                ],
+                "opinions": [
+                    [
+                        77,
+                        82,
+                        "good"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 15,
+        "Sentence": "Best Pastrami I ever had and great portion without being ridiculous .",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    13,
+                    "Pastrami"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        4,
+                        "Best"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    34,
+                    42,
+                    "portion"
+                ],
+                "opinions": [
+                    [
+                        28,
+                        34,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 16,
+        "Sentence": "My wife had the fried shrimp which are huge and loved it .",
+        "entities": [
+            {
+                "target": [
+                    15,
+                    28,
+                    "fried shrimp"
+                ],
+                "opinions": [
+                    [
+                        38,
+                        43,
+                        "huge"
+                    ],
+                    [
+                        47,
+                        53,
+                        "loved"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 17,
+        "Sentence": "This place is the most Japanese it can ever get .",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    10,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        22,
+                        31,
+                        "Japanese"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 18,
+        "Sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    4,
+                    "Leon"
+                ],
+                "opinions": [
+                    [
+                        29,
+                        36,
+                        "casual"
+                    ],
+                    [
+                        40,
+                        44,
+                        "hip"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    97,
+                    106,
+                    "specials"
+                ],
+                "opinions": [
+                    [
+                        92,
+                        97,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    126,
+                    137,
+                    "atmosphere"
+                ],
+                "opinions": [
+                    [
+                        110,
+                        115,
+                        "warm"
+                    ],
+                    [
+                        119,
+                        126,
+                        "lively"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    71,
+                    90,
+                    "French bistro fare"
+                ],
+                "opinions": [
+                    [
+                        51,
+                        65,
+                        "well prepared"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 19,
+        "Sentence": "The food was bland oily .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        23,
+                        "bland oily"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 20,
+        "Sentence": "I went there for lunch and it was not as good as I expected from the reviews I read .",
+        "entities": [
+            {
+                "target": [
+                    16,
+                    22,
+                    "lunch"
+                ],
+                "opinions": [
+                    [
+                        33,
+                        59,
+                        "not as good as I expected"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 21,
+        "Sentence": "This place is great .",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    10,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        19,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 22,
+        "Sentence": "Great pizza and fantastic service .",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    11,
+                    "pizza"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    25,
+                    33,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        25,
+                        "fantastic"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 23,
+        "Sentence": "The place is small and cramped but the food is fantastic .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        18,
+                        "small"
+                    ],
+                    [
+                        22,
+                        30,
+                        "cramped"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    38,
+                    43,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        46,
+                        56,
+                        "fantastic"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 24,
+        "Sentence": "Moules were excellent , lobster ravioli was VERY salty !",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    6,
+                    "Moules"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        21,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    23,
+                    39,
+                    "lobster ravioli"
+                ],
+                "opinions": [
+                    [
+                        48,
+                        54,
+                        "salty"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 25,
+        "Sentence": "The exotic food is beautifully presented and is a delight in delicious combinations .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    15,
+                    "exotic food"
+                ],
+                "opinions": [
+                    [
+                        18,
+                        40,
+                        "beautifully presented"
+                    ],
+                    [
+                        49,
+                        57,
+                        "delight"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 26,
+        "Sentence": "The staff is incredibly helpful and attentive .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "staff"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        31,
+                        "helpful"
+                    ],
+                    [
+                        35,
+                        45,
+                        "attentive"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 27,
+        "Sentence": "I had a great time at Jekyll and Hyde !",
+        "entities": [
+            {
+                "target": [
+                    21,
+                    37,
+                    "Jekyll and Hyde"
+                ],
+                "opinions": [
+                    [
+                        7,
+                        18,
+                        "great time"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 28,
+        "Sentence": "Our server was very helpful and friendly .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    10,
+                    "server"
+                ],
+                "opinions": [
+                    [
+                        19,
+                        27,
+                        "helpful"
+                    ],
+                    [
+                        31,
+                        40,
+                        "friendly"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 29,
+        "Sentence": "The food was good too .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        17,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 30,
+        "Sentence": "Service was prompt and courteous .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    7,
+                    "Service"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        18,
+                        "prompt"
+                    ],
+                    [
+                        22,
+                        32,
+                        "courteous"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 31,
+        "Sentence": "Great service , great food .",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    13,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    21,
+                    26,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        21,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 32,
+        "Sentence": "Wait staff is blantently unappreciative of your business but its the best pie on the UWS !",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    10,
+                    "Wait staff"
+                ],
+                "opinions": [
+                    [
+                        24,
+                        39,
+                        "unappreciative"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    73,
+                    77,
+                    "pie"
+                ],
+                "opinions": [
+                    [
+                        68,
+                        73,
+                        "best"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 33,
+        "Sentence": "By far the best salad I have had in a fast food restaurant .",
+        "entities": [
+            {
+                "target": [
+                    15,
+                    21,
+                    "salad"
+                ],
+                "opinions": [
+                    [
+                        10,
+                        15,
+                        "best"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 34,
+        "Sentence": "Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    4,
+                    "Food"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        18,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 35,
+        "Sentence": "The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .",
+        "entities": [
+            {
+                "target": [
+                    42,
+                    48,
+                    "bagel"
+                ],
+                "opinions": [
+                    [
+                        82,
+                        88,
+                        "messy"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 36,
+        "Sentence": "I highly recommend Cafe St. Bart 's for their food , the ambience and wonderful service .",
+        "entities": [
+            {
+                "target": [
+                    45,
+                    50,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        8,
+                        18,
+                        "recommend"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    56,
+                    65,
+                    "ambience"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    79,
+                    87,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        69,
+                        79,
+                        "wonderful"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 37,
+        "Sentence": "All the staff is absolutely professional ! !",
+        "entities": [
+            {
+                "target": [
+                    7,
+                    13,
+                    "staff"
+                ],
+                "opinions": [
+                    [
+                        27,
+                        40,
+                        "professional"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 38,
+        "Sentence": "The scallion pancakes and fried dumplings were nothing out of the ordinary .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    21,
+                    "scallion pancakes"
+                ],
+                "opinions": [
+                    [
+                        65,
+                        74,
+                        "ordinary"
+                    ]
+                ],
+                "polarity": "NEU"
+            },
+            {
+                "target": [
+                    25,
+                    41,
+                    "fried dumplings"
+                ],
+                "opinions": [],
+                "polarity": "NEU"
+            }
+        ]
+    },
+    {
+        "ID": 39,
+        "Sentence": "The service was the only thing good about this restaurant .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        30,
+                        35,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 40,
+        "Sentence": "fresh restaurant was amazing ... ... .. food was delicious and of course fresh .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    16,
+                    "fresh restaurant"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "fresh"
+                    ],
+                    [
+                        20,
+                        28,
+                        "amazing"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    39,
+                    44,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        48,
+                        58,
+                        "delicious"
+                    ],
+                    [
+                        72,
+                        78,
+                        "fresh"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 41,
+        "Sentence": "Hats off to the chef .",
+        "entities": [
+            {
+                "target": [
+                    15,
+                    20,
+                    "chef"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        8,
+                        "Hats off"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 42,
+        "Sentence": "the salads are delicious , both refreshing and very spicy .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    10,
+                    "salads"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        24,
+                        "delicious"
+                    ],
+                    [
+                        31,
+                        42,
+                        "refreshing"
+                    ],
+                    [
+                        51,
+                        57,
+                        "spicy"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 43,
+        "Sentence": "They have it all -- great price , food , and service .",
+        "entities": [
+            {
+                "target": [
+                    33,
+                    38,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        19,
+                        25,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    44,
+                    52,
+                    "service"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 44,
+        "Sentence": "And evaluated on those terms Pastis is simply wonderful .",
+        "entities": [
+            {
+                "target": [
+                    28,
+                    35,
+                    "Pastis"
+                ],
+                "opinions": [
+                    [
+                        45,
+                        55,
+                        "wonderful"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 45,
+        "Sentence": "The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    16,
+                    "hanger steak"
+                ],
+                "opinions": [
+                    [
+                        25,
+                        32,
+                        "rubber"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    40,
+                    45,
+                    "tuna"
+                ],
+                "opinions": [
+                    [
+                        49,
+                        60,
+                        "flavorless"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 46,
+        "Sentence": "The filet mignon dish was superb !",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    21,
+                    "filet mignon dish"
+                ],
+                "opinions": [
+                    [
+                        25,
+                        32,
+                        "superb"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 47,
+        "Sentence": "THe Pizza and wine were excellent -- the service too -- but what really MADE this place was the backyard dining area .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "Pizza"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        33,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    13,
+                    18,
+                    "wine"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    40,
+                    48,
+                    "service"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 48,
+        "Sentence": "First of all , this place is *not* romantic , as claimed by Citysearch 's editorial review .",
+        "entities": [
+            {
+                "target": [
+                    19,
+                    25,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        28,
+                        43,
+                        "*not* romantic"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 49,
+        "Sentence": "The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    10,
+                    "tables"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        22,
+                        "crammed"
+                    ],
+                    [
+                        26,
+                        36,
+                        "too close"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    42,
+                    47,
+                    "menu"
+                ],
+                "opinions": [
+                    [
+                        50,
+                        58,
+                        "typical"
+                    ]
+                ],
+                "polarity": "NEU"
+            },
+            {
+                "target": [
+                    94,
+                    104,
+                    "wine list"
+                ],
+                "opinions": [
+                    [
+                        114,
+                        125,
+                        "overpriced"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 50,
+        "Sentence": "Myagi is one of my favorite restaurants in the City ; the place the negative reviews describe sound like they were somewhere else .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    5,
+                    "Myagi"
+                ],
+                "opinions": [
+                    [
+                        18,
+                        27,
+                        "favorite"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 51,
+        "Sentence": "I 've never had bad service and the fish is fresh and delicious .",
+        "entities": [
+            {
+                "target": [
+                    19,
+                    27,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        5,
+                        19,
+                        "never had bad"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    35,
+                    40,
+                    "fish"
+                ],
+                "opinions": [
+                    [
+                        43,
+                        49,
+                        "fresh"
+                    ],
+                    [
+                        53,
+                        63,
+                        "delicious"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 52,
+        "Sentence": "I highly recommend to anyone to give this place a try .",
+        "entities": [
+            {
+                "target": [
+                    41,
+                    47,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        8,
+                        18,
+                        "recommend"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 53,
+        "Sentence": "The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu , present your meal , and attend to your needs .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        26,
+                        "impeccable"
+                    ],
+                    [
+                        30,
+                        42,
+                        "unobtrusive"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 54,
+        "Sentence": "Go to Volare for 1st class service and terrific food .",
+        "entities": [
+            {
+                "target": [
+                    26,
+                    34,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        16,
+                        26,
+                        "1st class"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    47,
+                    52,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        38,
+                        47,
+                        "terrific"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 55,
+        "Sentence": "Drinks way over priced .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    6,
+                    "Drinks"
+                ],
+                "opinions": [
+                    [
+                        10,
+                        22,
+                        "over priced"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 56,
+        "Sentence": "Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .",
+        "entities": [
+            {
+                "target": [
+                    63,
+                    68,
+                    "fish"
+                ],
+                "opinions": [
+                    [
+                        55,
+                        63,
+                        "quality"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    78,
+                    86,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        72,
+                        78,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 57,
+        "Sentence": "I thought this place was totally overrated .",
+        "entities": [
+            {
+                "target": [
+                    14,
+                    20,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        32,
+                        42,
+                        "overrated"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 58,
+        "Sentence": "The food is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        21,
+                        "delicious"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    72,
+                    79,
+                    "dishes"
+                ],
+                "opinions": [
+                    [
+                        83,
+                        106,
+                        "never a disappointment"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    32,
+                    41,
+                    "specials"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    48,
+                    66,
+                    "regular menu-fare"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 59,
+        "Sentence": "If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",
+        "entities": [
+            {
+                "target": [
+                    19,
+                    45,
+                    "marinara/arrabiatta sauce"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        15,
+                        "try"
+                    ],
+                    [
+                        111,
+                        121,
+                        "delicious"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    51,
+                    73,
+                    "mozzarella en Carozza"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 60,
+        "Sentence": "The hostess and the waitress were incredibly rude and did everything they could to rush us out .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "hostess"
+                ],
+                "opinions": [
+                    [
+                        44,
+                        49,
+                        "rude"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    19,
+                    28,
+                    "waitress"
+                ],
+                "opinions": [],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 61,
+        "Sentence": "Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .",
+        "entities": [
+            {
+                "target": [
+                    31,
+                    49,
+                    "vegetarian dishes"
+                ],
+                "opinions": [
+                    [
+                        67,
+                        81,
+                        "not up to par"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 62,
+        "Sentence": "Haru on Park S is simply disgusting .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    14,
+                    "Haru on Park S"
+                ],
+                "opinions": [
+                    [
+                        24,
+                        35,
+                        "disgusting"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 63,
+        "Sentence": "honestly the worst sushi my husband and i had in our entire lives .",
+        "entities": [
+            {
+                "target": [
+                    18,
+                    24,
+                    "sushi"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        18,
+                        "worst"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 64,
+        "Sentence": "The service was attentive .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        25,
+                        "attentive"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 65,
+        "Sentence": "The food is tasty and portion sizes are appropriate .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        17,
+                        "tasty"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    21,
+                    35,
+                    "portion sizes"
+                ],
+                "opinions": [
+                    [
+                        39,
+                        51,
+                        "appropriate"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 66,
+        "Sentence": "This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .",
+        "entities": [
+            {
+                "target": [
+                    14,
+                    25,
+                    "restaurant"
+                ],
+                "opinions": [
+                    [
+                        9,
+                        14,
+                        "nice"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 67,
+        "Sentence": "LOVE THIS PLACE .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    15,
+                    "PLACE"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        4,
+                        "LOVE"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 68,
+        "Sentence": "The menu is limited but almost all of the dishes are excellent .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "menu"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        19,
+                        "limited"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    41,
+                    48,
+                    "dishes"
+                ],
+                "opinions": [
+                    [
+                        52,
+                        62,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 69,
+        "Sentence": "The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    20,
+                    "lobster sandwich"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        28,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    36,
+                    71,
+                    "spaghetti with Scallops and Shrimp"
+                ],
+                "opinions": [
+                    [
+                        74,
+                        80,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 70,
+        "Sentence": "The only fallback on this restaurant is the prices .",
+        "entities": [
+            {
+                "target": [
+                    25,
+                    36,
+                    "restaurant"
+                ],
+                "opinions": [
+                    [
+                        8,
+                        17,
+                        "fallback"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 71,
+        "Sentence": "I loved this place ! !",
+        "entities": [
+            {
+                "target": [
+                    12,
+                    18,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        1,
+                        7,
+                        "loved"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 72,
+        "Sentence": "The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        24,
+                        "terrible"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 73,
+        "Sentence": "I would definitely recommend SEA if you like thai cuisine !",
+        "entities": [
+            {
+                "target": [
+                    44,
+                    57,
+                    "thai cuisine"
+                ],
+                "opinions": [
+                    [
+                        39,
+                        44,
+                        "like"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 74,
+        "Sentence": "I would highly recommend this place !",
+        "entities": [
+            {
+                "target": [
+                    29,
+                    35,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        24,
+                        "recommend"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 75,
+        "Sentence": "The food is great and reasonably priced .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        17,
+                        "great"
+                    ],
+                    [
+                        21,
+                        39,
+                        "reasonably priced"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 76,
+        "Sentence": "Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",
+        "entities": [
+            {
+                "target": [
+                    82,
+                    92,
+                    "waitstaff"
+                ],
+                "opinions": [
+                    [
+                        132,
+                        144,
+                        "comfortable"
+                    ],
+                    [
+                        148,
+                        156,
+                        "relaxed"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 77,
+        "Sentence": "We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",
+        "entities": [
+            {
+                "target": [
+                    17,
+                    28,
+                    "back patio"
+                ],
+                "opinions": [
+                    [
+                        39,
+                        45,
+                        "worth"
+                    ],
+                    [
+                        57,
+                        62,
+                        "cool"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    70,
+                    76,
+                    "music"
+                ],
+                "opinions": [
+                    [
+                        84,
+                        89,
+                        "well"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 78,
+        "Sentence": "but the service was a bit slow .",
+        "entities": [
+            {
+                "target": [
+                    7,
+                    15,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        25,
+                        30,
+                        "slow"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 79,
+        "Sentence": "I would recommend Roxy 's for that , but not for their food .",
+        "entities": [
+            {
+                "target": [
+                    54,
+                    59,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        7,
+                        17,
+                        "recommend"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 80,
+        "Sentence": "We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food .",
+        "entities": [
+            {
+                "target": [
+                    100,
+                    105,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        81,
+                        91,
+                        "impressed"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 81,
+        "Sentence": "The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    15,
+                    "pesto pizza"
+                ],
+                "opinions": [
+                    [
+                        19,
+                        29,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    70,
+                    91,
+                    "spicy Italian cheese"
+                ],
+                "opinions": [
+                    [
+                        55,
+                        60,
+                        "nice"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 82,
+        "Sentence": "it 's the only place you can get yummy authentic japanese comfort food .",
+        "entities": [
+            {
+                "target": [
+                    48,
+                    70,
+                    "japanese comfort food"
+                ],
+                "opinions": [
+                    [
+                        32,
+                        48,
+                        "yummy authentic"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 83,
+        "Sentence": "I am reluctant to write because I would not want my jem of a pizza place to become overcrowded .",
+        "entities": [
+            {
+                "target": [
+                    60,
+                    72,
+                    "pizza place"
+                ],
+                "opinions": [
+                    [
+                        82,
+                        94,
+                        "overcrowded"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 84,
+        "Sentence": "By far , the best pizza in Manhattan .",
+        "entities": [
+            {
+                "target": [
+                    17,
+                    23,
+                    "pizza"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        17,
+                        "best"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 85,
+        "Sentence": "I highly recommend the Sophia pizza .",
+        "entities": [
+            {
+                "target": [
+                    22,
+                    35,
+                    "Sophia pizza"
+                ],
+                "opinions": [
+                    [
+                        8,
+                        18,
+                        "recommend"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 86,
+        "Sentence": "I expected quite a bit more from such an expensive menu .",
+        "entities": [
+            {
+                "target": [
+                    50,
+                    55,
+                    "menu"
+                ],
+                "opinions": [
+                    [
+                        40,
+                        50,
+                        "expensive"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 87,
+        "Sentence": "delicious simple food in nice outdoor atmosphere .",
+        "entities": [
+            {
+                "target": [
+                    16,
+                    21,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        16,
+                        "delicious simple"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    29,
+                    48,
+                    "outdoor atmosphere"
+                ],
+                "opinions": [
+                    [
+                        24,
+                        29,
+                        "nice"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 88,
+        "Sentence": "Delicious crab cakes too .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    20,
+                    "crab cakes"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        9,
+                        "Delicious"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 89,
+        "Sentence": "Even if the food was n't this good , the garden is a great place to sit outside and relax .",
+        "entities": [
+            {
+                "target": [
+                    40,
+                    47,
+                    "garden"
+                ],
+                "opinions": [
+                    [
+                        52,
+                        58,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    11,
+                    16,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        16,
+                        34,
+                        "was n't this good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 90,
+        "Sentence": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+        "entities": [
+            {
+                "target": [
+                    36,
+                    66,
+                    "selection of thin crust pizza"
+                ],
+                "opinions": [
+                    [
+                        31,
+                        36,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    14,
+                    26,
+                    "pizza place"
+                ],
+                "opinions": [
+                    [
+                        9,
+                        14,
+                        "nice"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    80,
+                    92,
+                    "Basil slice"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 91,
+        "Sentence": "The counter service is bad .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    19,
+                    "counter service"
+                ],
+                "opinions": [
+                    [
+                        22,
+                        26,
+                        "bad"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 92,
+        "Sentence": "The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "dosas"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        20,
+                        "skimpy"
+                    ],
+                    [
+                        22,
+                        35,
+                        "unattractive"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 93,
+        "Sentence": "Unique apppetizers .",
+        "entities": [
+            {
+                "target": [
+                    6,
+                    18,
+                    "apppetizers"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        6,
+                        "Unique"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 94,
+        "Sentence": "Good spreads , great beverage selections and bagels really tasty .",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    12,
+                    "spreads"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        4,
+                        "Good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    20,
+                    40,
+                    "beverage selections"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        20,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    44,
+                    51,
+                    "bagels"
+                ],
+                "opinions": [
+                    [
+                        58,
+                        64,
+                        "tasty"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 95,
+        "Sentence": "I will be out with friends and all of a sudden I am hungry and I only crave one thing ... their Pizza .",
+        "entities": [
+            {
+                "target": [
+                    95,
+                    101,
+                    "Pizza"
+                ],
+                "opinions": [
+                    [
+                        69,
+                        75,
+                        "crave"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 96,
+        "Sentence": "the turkey burgers are scary !",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    18,
+                    "turkey burgers"
+                ],
+                "opinions": [
+                    [
+                        22,
+                        28,
+                        "scary"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 97,
+        "Sentence": "The sushi was awful !",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "sushi"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        19,
+                        "awful"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 98,
+        "Sentence": "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .",
+        "entities": [
+            {
+                "target": [
+                    16,
+                    22,
+                    "music"
+                ],
+                "opinions": [
+                    [
+                        6,
+                        11,
+                        "like"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 99,
+        "Sentence": "Great atmoshere and worth every bit .",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    15,
+                    "atmoshere"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 100,
+        "Sentence": "Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    12,
+                    "location"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        20,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    126,
+                    131,
+                    "Suan"
+                ],
+                "opinions": [
+                    [
+                        87,
+                        98,
+                        "reasonable"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 101,
+        "Sentence": "noodles with shrimp and chicken and coconut juice is the MUST !",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    49,
+                    "noodles with shrimp and chicken and coconut juice"
+                ],
+                "opinions": [
+                    [
+                        56,
+                        61,
+                        "MUST"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 102,
+        "Sentence": "During the course of the past 3 months , the chef and staff changed and it was not for the better .",
+        "entities": [
+            {
+                "target": [
+                    44,
+                    49,
+                    "chef"
+                ],
+                "opinions": [
+                    [
+                        59,
+                        67,
+                        "changed"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    53,
+                    59,
+                    "staff"
+                ],
+                "opinions": [],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 103,
+        "Sentence": "The setting is casual and romantic .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "setting"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        21,
+                        "casual"
+                    ],
+                    [
+                        25,
+                        34,
+                        "romantic"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 104,
+        "Sentence": "if you 're daring , try the balsamic vinegar over icecream , it 's wonderful !",
+        "entities": [
+            {
+                "target": [
+                    27,
+                    58,
+                    "balsamic vinegar over icecream"
+                ],
+                "opinions": [
+                    [
+                        19,
+                        23,
+                        "try"
+                    ],
+                    [
+                        66,
+                        76,
+                        "wonderful"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 105,
+        "Sentence": "The rest of the dim sum , though pricey by Chinatown standards , is worth it .",
+        "entities": [
+            {
+                "target": [
+                    15,
+                    23,
+                    "dim sum"
+                ],
+                "opinions": [
+                    [
+                        32,
+                        39,
+                        "pricey"
+                    ],
+                    [
+                        67,
+                        73,
+                        "worth"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 106,
+        "Sentence": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+        "entities": [
+            {
+                "target": [
+                    110,
+                    115,
+                    "meal"
+                ],
+                "opinions": [
+                    [
+                        96,
+                        102,
+                        "enjoy"
+                    ],
+                    [
+                        104,
+                        110,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    3,
+                    14,
+                    "restaurant"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        29,
+                        "noisy"
+                    ]
+                ],
+                "polarity": "NEU"
+            }
+        ]
+    },
+    {
+        "ID": 107,
+        "Sentence": "this little place has a cute interior decor and affordable city prices .",
+        "entities": [
+            {
+                "target": [
+                    28,
+                    43,
+                    "interior decor"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        28,
+                        "cute"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    11,
+                    17,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        4,
+                        11,
+                        "little"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 108,
+        "Sentence": "Have eaten at Ginger House several times , and it 's always good .",
+        "entities": [
+            {
+                "target": [
+                    13,
+                    26,
+                    "Ginger House"
+                ],
+                "opinions": [
+                    [
+                        59,
+                        64,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 109,
+        "Sentence": "The fried dumplings are GREAT !",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    19,
+                    "fried dumplings"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        29,
+                        "GREAT"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 110,
+        "Sentence": "The baked clams octopus we shared as appetizers were the best we 've ever had ! !",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    23,
+                    "baked clams octopus"
+                ],
+                "opinions": [
+                    [
+                        56,
+                        61,
+                        "best"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 111,
+        "Sentence": "Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",
+        "entities": [
+            {
+                "target": [
+                    38,
+                    45,
+                    "salmon"
+                ],
+                "opinions": [
+                    [
+                        47,
+                        63,
+                        "wasnt impressed"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    80,
+                    88,
+                    "chicken"
+                ],
+                "opinions": [
+                    [
+                        97,
+                        102,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    5,
+                    30,
+                    "servings for main entree"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Small"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 112,
+        "Sentence": "Still , any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house ...",
+        "entities": [
+            {
+                "target": [
+                    69,
+                    89,
+                    "measures of liquers"
+                ],
+                "opinions": [
+                    [
+                        55,
+                        69,
+                        "pour-your-own"
+                    ],
+                    [
+                        100,
+                        110,
+                        "courtesey"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 113,
+        "Sentence": "Excellent spot for holiday get togethers with co-workers or friends that you have n't seen in a while .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    14,
+                    "spot"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        9,
+                        "Excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 114,
+        "Sentence": "The shrimp scampi was excellent and the antipasti were plentiful .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    17,
+                    "shrimp scampi"
+                ],
+                "opinions": [
+                    [
+                        21,
+                        31,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    39,
+                    49,
+                    "antipasti"
+                ],
+                "opinions": [
+                    [
+                        54,
+                        64,
+                        "plentiful"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 115,
+        "Sentence": "Too bad the food was n't of the same heritage .",
+        "entities": [
+            {
+                "target": [
+                    11,
+                    16,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        3,
+                        7,
+                        "bad"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 116,
+        "Sentence": "I also recommend the rice dishes or the different varieties of congee ( rice porridge ) .",
+        "entities": [
+            {
+                "target": [
+                    20,
+                    32,
+                    "rice dishes"
+                ],
+                "opinions": [
+                    [
+                        6,
+                        16,
+                        "recommend"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 117,
+        "Sentence": "Warm and friendly in the winter and terrific outdoor seating in the warmer months .",
+        "entities": [
+            {
+                "target": [
+                    44,
+                    60,
+                    "outdoor seating"
+                ],
+                "opinions": [
+                    [
+                        35,
+                        44,
+                        "terrific"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 118,
+        "Sentence": "service is friendly , and never had a problem walking in and getting a table .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    7,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        10,
+                        19,
+                        "friendly"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 119,
+        "Sentence": "Ravioli was good ... but I have to say that I found everything a bit overpriced .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    7,
+                    "Ravioli"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        16,
+                        "good"
+                    ],
+                    [
+                        68,
+                        79,
+                        "overpriced"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 120,
+        "Sentence": "Not enough wines by the glass either .",
+        "entities": [
+            {
+                "target": [
+                    10,
+                    29,
+                    "wines by the glass"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        10,
+                        "Not enough"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 121,
+        "Sentence": "Service , however , was excellent ... and I liked the setting/atmosphere a lot .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    7,
+                    "Service"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        33,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    53,
+                    72,
+                    "setting/atmosphere"
+                ],
+                "opinions": [
+                    [
+                        43,
+                        49,
+                        "liked"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 122,
+        "Sentence": "Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    4,
+                    "Food"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        21,
+                        "average"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 123,
+        "Sentence": "Faan is sooo good .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    4,
+                    "Faan"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        17,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 124,
+        "Sentence": "The mussles were the fishiest things I 've ever tasted , the seabass was bland , the goat cheese salad was missing the goat cheese , the penne w/ chicken had bones in it ... It was disgusting .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "mussles"
+                ],
+                "opinions": [
+                    [
+                        20,
+                        29,
+                        "fishiest"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    60,
+                    68,
+                    "seabass"
+                ],
+                "opinions": [
+                    [
+                        72,
+                        78,
+                        "bland"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    84,
+                    102,
+                    "goat cheese salad"
+                ],
+                "opinions": [
+                    [
+                        106,
+                        114,
+                        "missing"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    136,
+                    153,
+                    "penne w/ chicken"
+                ],
+                "opinions": [
+                    [
+                        180,
+                        191,
+                        "disgusting"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 125,
+        "Sentence": "My fav was the sassy lassi ...",
+        "entities": [
+            {
+                "target": [
+                    14,
+                    26,
+                    "sassy lassi"
+                ],
+                "opinions": [
+                    [
+                        2,
+                        6,
+                        "fav"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 126,
+        "Sentence": "The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    12,
+                    "portions"
+                ],
+                "opinions": [
+                    [
+                        16,
+                        21,
+                        "HUGE"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 127,
+        "Sentence": "The service is good and the resturant is clean .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        19,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    27,
+                    37,
+                    "resturant"
+                ],
+                "opinions": [
+                    [
+                        40,
+                        46,
+                        "clean"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 128,
+        "Sentence": "We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .",
+        "entities": [
+            {
+                "target": [
+                    73,
+                    89,
+                    "outdoor seating"
+                ],
+                "opinions": [
+                    [
+                        91,
+                        99,
+                        "perfect"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 129,
+        "Sentence": "Excellent dumplings served amid clean , chic decor .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    19,
+                    "dumplings"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        9,
+                        "Excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    44,
+                    50,
+                    "decor"
+                ],
+                "opinions": [
+                    [
+                        31,
+                        37,
+                        "clean"
+                    ],
+                    [
+                        39,
+                        44,
+                        "chic"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 130,
+        "Sentence": "The food was delicious but do not come here on a empty stomach .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        22,
+                        "delicious"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 131,
+        "Sentence": "Great food and the prices are very reasonable .",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    10,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 132,
+        "Sentence": "Consistently good Japanese Tapas .",
+        "entities": [
+            {
+                "target": [
+                    17,
+                    32,
+                    "Japanese Tapas"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        17,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 133,
+        "Sentence": "Atmosphere is nice and relaxed too ...",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    10,
+                    "Atmosphere"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        18,
+                        "nice"
+                    ],
+                    [
+                        22,
+                        30,
+                        "relaxed"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 134,
+        "Sentence": "The food is okay and the prices here are mediocre .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        16,
+                        "okay"
+                    ]
+                ],
+                "polarity": "NEU"
+            }
+        ]
+    },
+    {
+        "ID": 135,
+        "Sentence": "There is no excuse for such lousy service !",
+        "entities": [
+            {
+                "target": [
+                    33,
+                    41,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        27,
+                        33,
+                        "lousy"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 136,
+        "Sentence": "I went to Areo on a Sunday afternoon with four of my girlfriends , and spent three enjoyable hours there .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    14,
+                    "Areo"
+                ],
+                "opinions": [
+                    [
+                        82,
+                        92,
+                        "enjoyable"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 137,
+        "Sentence": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "vibe"
+                ],
+                "opinions": [
+                    [
+                        16,
+                        24,
+                        "relaxed"
+                    ],
+                    [
+                        28,
+                        33,
+                        "cozy"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    35,
+                    43,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        47,
+                        53,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    61,
+                    66,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        70,
+                        80,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 138,
+        "Sentence": "Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    4,
+                    "Food"
+                ],
+                "opinions": [
+                    [
+                        8,
+                        13,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    21,
+                    55,
+                    "view of the new york city skiline"
+                ],
+                "opinions": [
+                    [
+                        59,
+                        68,
+                        "terrific"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 139,
+        "Sentence": "We were 4 and got the family size penne a la vodka which was tremendously gigantic portion ... a bucket of food literally .",
+        "entities": [
+            {
+                "target": [
+                    33,
+                    50,
+                    "penne a la vodka"
+                ],
+                "opinions": [
+                    [
+                        73,
+                        82,
+                        "gigantic"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 140,
+        "Sentence": "I found it on a cold night , the perfect spot to warm up .",
+        "entities": [
+            {
+                "target": [
+                    40,
+                    45,
+                    "spot"
+                ],
+                "opinions": [
+                    [
+                        32,
+                        40,
+                        "perfect"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 141,
+        "Sentence": "I recieved prompt service with a smile .",
+        "entities": [
+            {
+                "target": [
+                    17,
+                    25,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        10,
+                        17,
+                        "prompt"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 142,
+        "Sentence": "I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",
+        "entities": [
+            {
+                "target": [
+                    107,
+                    121,
+                    "Dining Garden"
+                ],
+                "opinions": [
+                    [
+                        97,
+                        107,
+                        "fantastic"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    77,
+                    86,
+                    "Jazz Bar"
+                ],
+                "opinions": [
+                    [
+                        73,
+                        77,
+                        "new"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    132,
+                    150,
+                    "Thin Crust Pizzas"
+                ],
+                "opinions": [
+                    [
+                        127,
+                        132,
+                        "Best"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    162,
+                    175,
+                    "Lasagna Menu"
+                ],
+                "opinions": [
+                    [
+                        187,
+                        195,
+                        "die for"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 143,
+        "Sentence": "We could have made a meal of the yummy dumplings from the dumpling menu .",
+        "entities": [
+            {
+                "target": [
+                    38,
+                    48,
+                    "dumplings"
+                ],
+                "opinions": [
+                    [
+                        32,
+                        38,
+                        "yummy"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 144,
+        "Sentence": "It was totally overpriced - fish and chips was about $ 15 ... .",
+        "entities": [
+            {
+                "target": [
+                    27,
+                    42,
+                    "fish and chips"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        25,
+                        "overpriced"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 145,
+        "Sentence": "Tasty Dog !",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    9,
+                    "Dog"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Tasty"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 146,
+        "Sentence": "We had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza !",
+        "entities": [
+            {
+                "target": [
+                    6,
+                    22,
+                    "half/half pizza"
+                ],
+                "opinions": [
+                    [
+                        88,
+                        93,
+                        "huge"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 147,
+        "Sentence": "Delivery can be spot on or lacking depending on the weather and the day of the week .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    8,
+                    "Delivery"
+                ],
+                "opinions": [
+                    [
+                        26,
+                        34,
+                        "lacking"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 148,
+        "Sentence": "Delivery guy sometimes get upset if you do n't tip more than 10 % .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    12,
+                    "Delivery guy"
+                ],
+                "opinions": [
+                    [
+                        26,
+                        32,
+                        "upset"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 149,
+        "Sentence": "Excellent sashimi , and the millennium roll is beyond delicious .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    17,
+                    "sashimi"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        9,
+                        "Excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    27,
+                    43,
+                    "millennium roll"
+                ],
+                "opinions": [
+                    [
+                        53,
+                        63,
+                        "delicious"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 150,
+        "Sentence": "The place is a bit hidden away , but once you get there , it 's all worth it .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        18,
+                        30,
+                        "hidden away"
+                    ],
+                    [
+                        67,
+                        73,
+                        "worth"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 151,
+        "Sentence": "Excellent food for great prices",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    14,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        9,
+                        "Excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 152,
+        "Sentence": "The wait staff is very courteous and accomodating .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    14,
+                    "wait staff"
+                ],
+                "opinions": [
+                    [
+                        22,
+                        32,
+                        "courteous"
+                    ],
+                    [
+                        36,
+                        49,
+                        "accomodating"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 153,
+        "Sentence": "i love their chicken pasta cant remember the name but is sooo good",
+        "entities": [
+            {
+                "target": [
+                    12,
+                    26,
+                    "chicken pasta"
+                ],
+                "opinions": [
+                    [
+                        1,
+                        6,
+                        "love"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 154,
+        "Sentence": "I think the pizza is so overrated and was under cooked .",
+        "entities": [
+            {
+                "target": [
+                    11,
+                    17,
+                    "pizza"
+                ],
+                "opinions": [
+                    [
+                        23,
+                        33,
+                        "overrated"
+                    ],
+                    [
+                        41,
+                        54,
+                        "under cooked"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 155,
+        "Sentence": "The service was quick and friendly .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        21,
+                        "quick"
+                    ],
+                    [
+                        25,
+                        34,
+                        "friendly"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 156,
+        "Sentence": "I ordered the vitello alla marsala and I was pretty impressed .",
+        "entities": [
+            {
+                "target": [
+                    13,
+                    34,
+                    "vitello alla marsala"
+                ],
+                "opinions": [
+                    [
+                        51,
+                        61,
+                        "impressed"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 157,
+        "Sentence": "Red Dragon Roll - my favorite thing to eat , of any food group - hands down",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    15,
+                    "Red Dragon Roll"
+                ],
+                "opinions": [
+                    [
+                        20,
+                        29,
+                        "favorite"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 158,
+        "Sentence": "In the summer months , the back garden area is really nice .",
+        "entities": [
+            {
+                "target": [
+                    26,
+                    43,
+                    "back garden area"
+                ],
+                "opinions": [
+                    [
+                        53,
+                        58,
+                        "nice"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 159,
+        "Sentence": "Great Indian Food !",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    17,
+                    "Indian Food"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 160,
+        "Sentence": "This is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .",
+        "entities": [
+            {
+                "target": [
+                    51,
+                    56,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        59,
+                        65,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 161,
+        "Sentence": "I highly recommend this beautiful place .",
+        "entities": [
+            {
+                "target": [
+                    33,
+                    39,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        8,
+                        18,
+                        "recommend"
+                    ],
+                    [
+                        23,
+                        33,
+                        "beautiful"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 162,
+        "Sentence": "Nice view of river and NYC .",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    26,
+                    "view of river and NYC"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        4,
+                        "Nice"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 163,
+        "Sentence": "A beautifully designed dreamy Egyptian restaurant that gets sceney at night .",
+        "entities": [
+            {
+                "target": [
+                    29,
+                    49,
+                    "Egyptian restaurant"
+                ],
+                "opinions": [
+                    [
+                        22,
+                        29,
+                        "dreamy"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 164,
+        "Sentence": "The drinks are great , especially when made by Raymond .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    10,
+                    "drinks"
+                ],
+                "opinions": [
+                    [
+                        14,
+                        20,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    46,
+                    54,
+                    "Raymond"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 165,
+        "Sentence": "quacamole at pacifico is yummy , as are the wings with chimmichuri .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    9,
+                    "quacamole"
+                ],
+                "opinions": [
+                    [
+                        24,
+                        30,
+                        "yummy"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    43,
+                    66,
+                    "wings with chimmichuri"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 166,
+        "Sentence": "Also , I personally was n't a fan of the portobello and asparagus mole .",
+        "entities": [
+            {
+                "target": [
+                    40,
+                    70,
+                    "portobello and asparagus mole"
+                ],
+                "opinions": [
+                    [
+                        29,
+                        33,
+                        "fan"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 167,
+        "Sentence": "This small Astoria souvlaki spot makes what many consider the best gyros in New York .",
+        "entities": [
+            {
+                "target": [
+                    66,
+                    72,
+                    "gyros"
+                ],
+                "opinions": [
+                    [
+                        61,
+                        66,
+                        "best"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 168,
+        "Sentence": "What really makes it shine is the food , which is aggressively seasoned with Cyrpriot spices , and all made in-house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .",
+        "entities": [
+            {
+                "target": [
+                    33,
+                    38,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        20,
+                        26,
+                        "shine"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    127,
+                    137,
+                    "gyro meat"
+                ],
+                "opinions": [
+                    [
+                        107,
+                        116,
+                        "in-house"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    141,
+                    150,
+                    "sausages"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    186,
+                    198,
+                    "ingredients"
+                ],
+                "opinions": [
+                    [
+                        171,
+                        186,
+                        "higher quality"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 169,
+        "Sentence": "Great food , amazing service , this place is a class act .",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    10,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "Great"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    20,
+                    28,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        20,
+                        "amazing"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    35,
+                    41,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        46,
+                        56,
+                        "class act"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 170,
+        "Sentence": "Service ok but unfriendly , filthy bathroom .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    7,
+                    "Service"
+                ],
+                "opinions": [
+                    [
+                        7,
+                        10,
+                        "ok"
+                    ],
+                    [
+                        14,
+                        25,
+                        "unfriendly"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    34,
+                    43,
+                    "bathroom"
+                ],
+                "opinions": [
+                    [
+                        27,
+                        34,
+                        "filthy"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 171,
+        "Sentence": "The bread we received was horrible - rock hard and cold - and the `` free '' appetizer of olives was disappointing .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "bread"
+                ],
+                "opinions": [
+                    [
+                        25,
+                        34,
+                        "horrible"
+                    ],
+                    [
+                        36,
+                        46,
+                        "rock hard"
+                    ],
+                    [
+                        50,
+                        55,
+                        "cold"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    76,
+                    96,
+                    "appetizer of olives"
+                ],
+                "opinions": [
+                    [
+                        100,
+                        114,
+                        "disappointing"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 172,
+        "Sentence": "The service was extremely fast and attentive ( thanks to the service button on your table ) but I barely understood 1 word when the waiter took our order .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        25,
+                        30,
+                        "fast"
+                    ],
+                    [
+                        34,
+                        44,
+                        "attentive"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    60,
+                    75,
+                    "service button"
+                ],
+                "opinions": [
+                    [
+                        46,
+                        56,
+                        "thanks to"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    131,
+                    138,
+                    "waiter"
+                ],
+                "opinions": [
+                    [
+                        97,
+                        115,
+                        "barely understood"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 173,
+        "Sentence": "Over all the looks of the place exceeds the actual meals .",
+        "entities": [
+            {
+                "target": [
+                    12,
+                    18,
+                    "looks"
+                ],
+                "opinions": [
+                    [
+                        31,
+                        39,
+                        "exceeds"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 174,
+        "Sentence": "I go out to eat and like my courses , servers are patient and never rush courses or force another drink .",
+        "entities": [
+            {
+                "target": [
+                    37,
+                    45,
+                    "servers"
+                ],
+                "opinions": [
+                    [
+                        49,
+                        57,
+                        "patient"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 175,
+        "Sentence": "Food took some time to prepare , all worth waiting for .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    4,
+                    "Food"
+                ],
+                "opinions": [
+                    [
+                        36,
+                        42,
+                        "worth"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 176,
+        "Sentence": "I never write on these sites but this restaurant is def worth commending !",
+        "entities": [
+            {
+                "target": [
+                    37,
+                    48,
+                    "restaurant"
+                ],
+                "opinions": [
+                    [
+                        55,
+                        61,
+                        "worth"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 177,
+        "Sentence": "Yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    6,
+                    "Yamato"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        22,
+                        "excellent"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 178,
+        "Sentence": "One special roll and one regular roll is enough to fill you up , but save room for dessert !",
+        "entities": [
+            {
+                "target": [
+                    82,
+                    90,
+                    "dessert"
+                ],
+                "opinions": [
+                    [
+                        68,
+                        78,
+                        "save room"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    3,
+                    16,
+                    "special roll"
+                ],
+                "opinions": [
+                    [
+                        40,
+                        47,
+                        "enough"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    24,
+                    37,
+                    "regular roll"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 179,
+        "Sentence": "Amazing food .",
+        "entities": [
+            {
+                "target": [
+                    7,
+                    12,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        7,
+                        "Amazing"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 180,
+        "Sentence": "Indo Chinese food , pretty good ...",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    17,
+                    "Indo Chinese food"
+                ],
+                "opinions": [
+                    [
+                        26,
+                        31,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 181,
+        "Sentence": "My mom originally introduced me to this place , but even she ( being Indian ) feels the food can be somewhat over the top spicy and far too oily .",
+        "entities": [
+            {
+                "target": [
+                    87,
+                    92,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        121,
+                        127,
+                        "spicy"
+                    ],
+                    [
+                        139,
+                        144,
+                        "oily"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 182,
+        "Sentence": "great hot dogs .",
+        "entities": [
+            {
+                "target": [
+                    5,
+                    14,
+                    "hot dogs"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        5,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 183,
+        "Sentence": "I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .",
+        "entities": [
+            {
+                "target": [
+                    45,
+                    59,
+                    "Casa La Femme"
+                ],
+                "opinions": [
+                    [
+                        70,
+                        79,
+                        "offended"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 184,
+        "Sentence": "If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible !",
+        "entities": [
+            {
+                "target": [
+                    100,
+                    105,
+                    "meal"
+                ],
+                "opinions": [
+                    [
+                        109,
+                        118,
+                        "inedible"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 185,
+        "Sentence": "There was no tap beer that evening , which was a disappointment .",
+        "entities": [
+            {
+                "target": [
+                    16,
+                    21,
+                    "beer"
+                ],
+                "opinions": [
+                    [
+                        48,
+                        63,
+                        "disappointment"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 186,
+        "Sentence": "Service not the friendliest to our `` large party '' !",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    7,
+                    "Service"
+                ],
+                "opinions": [
+                    [
+                        7,
+                        27,
+                        "not the friendliest"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 187,
+        "Sentence": "Bukhara is on my top 5 Indian places in NYC",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    7,
+                    "Bukhara"
+                ],
+                "opinions": [
+                    [
+                        16,
+                        20,
+                        "top"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 188,
+        "Sentence": "However , once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair , ( sometimes you have to settle when it 's your only option ) , I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .",
+        "entities": [
+            {
+                "target": [
+                    192,
+                    200,
+                    "kimchee"
+                ],
+                "opinions": [
+                    [
+                        267,
+                        278,
+                        "disgusting"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    87,
+                    99,
+                    "Korean fair"
+                ],
+                "opinions": [
+                    [
+                        40,
+                        49,
+                        "mediocre"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 189,
+        "Sentence": "I completely recommend Casa La Femme for any special occasion and to REALLY impress your date .",
+        "entities": [
+            {
+                "target": [
+                    22,
+                    36,
+                    "Casa La Femme"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        22,
+                        "recommend"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 190,
+        "Sentence": "Love this place , every time we are in the city this is one of the places we always go .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    15,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        4,
+                        "Love"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 191,
+        "Sentence": "A quintessential slice of NYC pizza .",
+        "entities": [
+            {
+                "target": [
+                    16,
+                    35,
+                    "slice of NYC pizza"
+                ],
+                "opinions": [
+                    [
+                        1,
+                        16,
+                        "quintessential"
+                    ]
+                ],
+                "polarity": "NEU"
+            }
+        ]
+    },
+    {
+        "ID": 192,
+        "Sentence": "If you ’ re planning to come here , make sure that your date is someone whom you really like since you ’ ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .",
+        "entities": [
+            {
+                "target": [
+                    121,
+                    136,
+                    "private booths"
+                ],
+                "opinions": [
+                    [
+                        110,
+                        118,
+                        "ushered"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 193,
+        "Sentence": "I picked the Grilled Black Cod as my entree , which I absolutely devoured while someone commented that the Grilled Salmon dish was better .",
+        "entities": [
+            {
+                "target": [
+                    12,
+                    30,
+                    "Grilled Black Cod"
+                ],
+                "opinions": [
+                    [
+                        64,
+                        73,
+                        "devoured"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    106,
+                    126,
+                    "Grilled Salmon dish"
+                ],
+                "opinions": [
+                    [
+                        130,
+                        137,
+                        "better"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 194,
+        "Sentence": "Maybe it was the great company ( I had friends visiting from Philly – yes , it was not a date this time ) or the super reasonable price point , but I just can ’ t say enough good things about this brasserie .",
+        "entities": [
+            {
+                "target": [
+                    196,
+                    206,
+                    "brasserie"
+                ],
+                "opinions": [
+                    [
+                        173,
+                        178,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 195,
+        "Sentence": "The service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "service"
+                ],
+                "opinions": [
+                    [
+                        11,
+                        37,
+                        "leaves much to be desired"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 196,
+        "Sentence": "Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos .",
+        "entities": [
+            {
+                "target": [
+                    60,
+                    72,
+                    "Korean food"
+                ],
+                "opinions": [
+                    [
+                        52,
+                        60,
+                        "classic"
+                    ]
+                ],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    76,
+                    90,
+                    "fusion twists"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            },
+            {
+                "target": [
+                    95,
+                    112,
+                    "pork belly tacos"
+                ],
+                "opinions": [],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 197,
+        "Sentence": "This place is not inviting and the food is totally weird .",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    10,
+                    "place"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        26,
+                        "not inviting"
+                    ]
+                ],
+                "polarity": "NEG"
+            },
+            {
+                "target": [
+                    34,
+                    39,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        50,
+                        56,
+                        "weird"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 198,
+        "Sentence": "Good Food",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    9,
+                    "Food"
+                ],
+                "opinions": [
+                    [
+                        0,
+                        4,
+                        "Good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 199,
+        "Sentence": "Our waitress was n't mean , but not especially warm or attentive either .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    12,
+                    "waitress"
+                ],
+                "opinions": [
+                    [
+                        12,
+                        25,
+                        "was n't mean"
+                    ],
+                    [
+                        31,
+                        64,
+                        "not especially warm or attentive"
+                    ]
+                ],
+                "polarity": "NEU"
+            }
+        ]
+    },
+    {
+        "ID": 200,
+        "Sentence": "The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "servers"
+                ],
+                "opinions": [
+                    [
+                        43,
+                        53,
+                        "perfected"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 201,
+        "Sentence": "Overall the food quality was pretty good , though I hear the salmon is much better when it has n't sat cooling in front of the guest .",
+        "entities": [
+            {
+                "target": [
+                    11,
+                    16,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        35,
+                        40,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 202,
+        "Sentence": "Everything was going good until we got our meals .",
+        "entities": [
+            {
+                "target": [
+                    42,
+                    48,
+                    "meals"
+                ],
+                "opinions": [
+                    [
+                        20,
+                        25,
+                        "good"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 203,
+        "Sentence": "THIS STAFF SHOULD BE FIRED .",
+        "entities": [
+            {
+                "target": [
+                    4,
+                    10,
+                    "STAFF"
+                ],
+                "opinions": [
+                    [
+                        20,
+                        26,
+                        "FIRED"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 204,
+        "Sentence": "it was really good pizza .",
+        "entities": [
+            {
+                "target": [
+                    18,
+                    24,
+                    "pizza"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        18,
+                        "good"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 205,
+        "Sentence": "I had the Lamb special which was perfect .",
+        "entities": [
+            {
+                "target": [
+                    9,
+                    22,
+                    "Lamb special"
+                ],
+                "opinions": [
+                    [
+                        32,
+                        40,
+                        "perfect"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 206,
+        "Sentence": "The Four Seasons restaurant is a great experience .",
+        "entities": [
+            {
+                "target": [
+                    0,
+                    27,
+                    "The Four Seasons restaurant"
+                ],
+                "opinions": [
+                    [
+                        32,
+                        38,
+                        "great"
+                    ]
+                ],
+                "polarity": "POS"
+            }
+        ]
+    },
+    {
+        "ID": 207,
+        "Sentence": "The food is very good , but not outstanding .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    8,
+                    "food"
+                ],
+                "opinions": [
+                    [
+                        16,
+                        21,
+                        "good"
+                    ],
+                    [
+                        27,
+                        43,
+                        "not outstanding"
+                    ]
+                ],
+                "polarity": "NEU"
+            }
+        ]
+    },
+    {
+        "ID": 208,
+        "Sentence": "The pasta was well cooked , did n't have enough sauce though or flavor .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    9,
+                    "pasta"
+                ],
+                "opinions": [
+                    [
+                        13,
+                        25,
+                        "well cooked"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    },
+    {
+        "ID": 209,
+        "Sentence": "The hostess was rude and I got a distinct feeling that they did not want to serve us .",
+        "entities": [
+            {
+                "target": [
+                    3,
+                    11,
+                    "hostess"
+                ],
+                "opinions": [
+                    [
+                        15,
+                        20,
+                        "rude"
+                    ]
+                ],
+                "polarity": "NEG"
+            }
+        ]
+    }
+]
