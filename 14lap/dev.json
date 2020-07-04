@@ -164,6 +164,36 @@
                     ]
                 ],
                 "polarity": "POS"
+            },
+            {
+                "target": [
+                    48,
+                    61,
+                    "web browsing"
+                ],
+                "opinions": [
+                    [
+                        90,
+                        98,
+                        "perfect"
+                    ]
+                ],
+                "polarity": "NEU"
+            },
+            {
+                "target": [
+                    65,
+                    78,
+                    "word editing"
+                ],
+                "opinions": [
+                    [
+                        90,
+                        98,
+                        "perfect"
+                    ]
+                ],
+                "polarity": "NEU"
             }
         ]
     },
@@ -2829,8 +2859,8 @@
                 "opinions": [
                     [
                         73,
-                        78,
-                        "hard"
+                        85,
+                        "hard to use"
                     ]
                 ],
                 "polarity": "NEG"
@@ -2844,8 +2874,8 @@
                 "opinions": [
                     [
                         73,
-                        78,
-                        "hard"
+                        85,
+                        "hard to use"
                     ]
                 ],
                 "polarity": "NEG"

@@ -1508,11 +1508,6 @@
                         11,
                         23,
                         "interesting"
-                    ],
-                    [
-                        33,
-                        51,
-                        "reasonably priced"
                     ]
                 ],
                 "polarity": "POS"
@@ -11431,6 +11426,11 @@
                         154,
                         160,
                         "sweet"
+                    ],
+                    [
+                        81,
+                        96,
+                        "tried-and-true"
                     ]
                 ],
                 "polarity": "POS"
@@ -13651,11 +13651,6 @@
                         43,
                         57,
                         "not too sweet"
-                    ],
-                    [
-                        63,
-                        78,
-                        "full of flavor"
                     ]
                 ],
                 "polarity": "POS"
@@ -16113,11 +16108,6 @@
                         11,
                         17,
                         "fresh"
-                    ],
-                    [
-                        23,
-                        38,
-                        "lacking flavor"
                     ]
                 ],
                 "polarity": "POS"

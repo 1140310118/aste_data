@@ -3969,9 +3969,9 @@
         "entities": [
             {
                 "target": [
-                    0,
+                    5,
                     16,
-                    "fresh restaurant"
+                    "restaurant"
                 ],
                 "opinions": [
                     [

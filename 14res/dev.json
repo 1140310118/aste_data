@@ -3197,11 +3197,6 @@
                 ],
                 "opinions": [
                     [
-                        44,
-                        58,
-                        "served timely"
-                    ],
-                    [
                         62,
                         68,
                         "fresh"
@@ -3220,11 +3215,6 @@
                         51,
                         58,
                         "timely"
-                    ],
-                    [
-                        62,
-                        68,
-                        "fresh"
                     ]
                 ],
                 "polarity": "POS"
@@ -6637,7 +6627,7 @@
         ]
     },
     {
-        "ID": 207,
+        "?ID": 207,
         "Sentence": "Food was good not great not worth the wait or another visit",
         "entities": [
             {

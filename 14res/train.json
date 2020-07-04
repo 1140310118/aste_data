@@ -4733,9 +4733,9 @@
                 ],
                 "opinions": [
                     [
-                        93,
-                        101,
-                        "quickly"
+                        7,
+                        30,
+                        "never had any problems"
                     ]
                 ],
                 "polarity": "POS"
@@ -18329,9 +18329,9 @@
                 ],
                 "opinions": [
                     [
-                        29,
+                        10,
                         36,
-                        "expect"
+                        "not what one would expect"
                     ]
                 ],
                 "polarity": "NEG"
@@ -20319,8 +20319,8 @@
                     ],
                     [
                         89,
-                        95,
-                        "sweet"
+                        103,
+                        "sweet tasting"
                     ]
                 ],
                 "polarity": "POS"
@@ -33915,8 +33915,13 @@
                 "opinions": [
                     [
                         0,
+                        6,
+                        "Simple"
+                    ],
+                    [
+                        6,
                         14,
-                        "Simple comfort"
+                        "comfort"
                     ]
                 ],
                 "polarity": "POS"
@@ -39279,11 +39284,6 @@
                 ],
                 "opinions": [
                     [
-                        65,
-                        83,
-                        "reasonably priced"
-                    ],
-                    [
                         92,
                         98,
                         "tasty"
@@ -40014,21 +40014,6 @@
                         76,
                         82,
                         "worth"
-                    ]
-                ],
-                "polarity": "POS"
-            },
-            {
-                "target": [
-                    12,
-                    17,
-                    "wait"
-                ],
-                "opinions": [
-                    [
-                        76,
-                        91,
-                        "worth the wait"
                     ]
                 ],
                 "polarity": "POS"

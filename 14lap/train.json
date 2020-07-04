@@ -9970,13 +9970,8 @@
                 "opinions": [
                     [
                         0,
-                        4,
-                        "Love"
-                    ],
-                    [
-                        8,
                         18,
-                        "stability"
+                        "Love the stability"
                     ]
                 ],
                 "polarity": "POS"
@@ -9990,13 +9985,8 @@
                 "opinions": [
                     [
                         0,
-                        4,
-                        "Love"
-                    ],
-                    [
-                        8,
                         18,
-                        "stability"
+                        "Love the stability"
                     ]
                 ],
                 "polarity": "POS"
@@ -14965,6 +14955,11 @@
                         42,
                         58,
                         "stopped working"
+                    ],
+                    [
+                        88,
+                        100,
+                        "frustrating"
                     ]
                 ],
                 "polarity": "NEG"
